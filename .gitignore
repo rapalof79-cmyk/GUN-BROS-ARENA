@@ -1,0 +1,8 @@
+# Local static dev server used only to preview the build over HTTP.
+# Not part of the game; the game itself has no build step.
+_local_serve/
+
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store

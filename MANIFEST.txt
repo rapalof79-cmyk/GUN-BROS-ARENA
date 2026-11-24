@@ -1,0 +1,27 @@
+GUN BROS ARENA - BUILD V18 . OUTLANDS
+Recovered source manifest
+
+Source URL      : https://gun-bros-arena-1wkknf.freebuff.site/
+Site            : Gun Bros Arena (site created 2026-11-22T10:31:11Z)
+Environment     : production
+Last deploy     : 2026-11-23T19:42:11Z (receipt 73934df2-71b3-4f90-9ca4-297fdca2abda)
+Build constant  : const BUILD = 'v18 . OUTLANDS'
+Asset version   : v22
+Verified        : served locally, all assets 200, module executed, 8/8 maps build without error
+
+SHA-256 per file:
+  a85254172e18187f98b87d0d35350705a0eadcfdf85841485d3f86f500be9df3  index.html
+  855e6d5e63bba6eec2dc0fe3a56dd3e30e1aa7529d0587c6c5ccf8911f5a23f5  style.css
+  58c5856df7e6005df8a1f4f5cf4580bde6c2109b6247692fe6c966b1d2f9215b  game.js
+  76dea8151bc9352aef3528b4262e249b2604f62543828328db978d060d61a495  vendor/three.module.js
+  4b89131357fcd6efbe685271aa71698ebf9a5361335851c4df328a491621abf7  manifest.webmanifest
+  8e7b319935d7fe9735be616bf6c68a3c5179518dcde90d309829e3316bfde638  sw.js
+  9f878ffa3d201f13d4de6aed0583286a18936c8fd3a5cbc70fb94d6ddeb574ad  icons/icon-192.png
+  fc200cf3029d3ae7049f95788a1f0bc2de1e7e38f7125948d85b25bbe8aa8572  icons/icon-512.png
+  e6c75cd91ffe1c1a5304fb3dd6f2150efaf50d640c06be3b0208c6f1cf7cea92  icons/icon-maskable-512.png
+  5c55dd298c6ebdbfd4fd2dd8964051cf9455010fc72e20b200ba8453731363cb  README.md
+
+Totals:
+  files: 11
+  bytes: 1769120
+  game.js lines: 8888
